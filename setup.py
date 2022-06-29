@@ -5,5 +5,5 @@ setup(
     version='3.7',
     packages=['setup'],
     package_dir={'': 'setup'},
-    description='setup'
+    url='https://github.com/Sailorperrett/codinglife'
 )
